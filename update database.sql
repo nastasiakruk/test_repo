@@ -1,0 +1,1 @@
+create table test_db.test_schema.test_table;
